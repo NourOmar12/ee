@@ -1,0 +1,21 @@
+.one{
+width: 200px;
+height: 200px;
+border: 4px  solid red;
+
+}                                                                                             
+
+.tow{
+    width: 200px;
+    height: 200px;
+    border: 2px  dotted blue;
+}
+.three{
+    width: 200px;
+    height: 200px;
+    border: 12px  double green;
+}
+.one:hover{
+border: 4px solid blue;
+background-color: yellow;
+}
